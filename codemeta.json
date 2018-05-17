@@ -1,0 +1,33 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "description": "A demo of working with data directly from a DOI.",
+  "name": "doi-demo-notebook",
+  "codeRepository": "https://github.com/caltechlibrary/doi-demo-notebook",
+  "issueTracker": "https://github.com/caltechlibrary/doi-demo-notebook/issues",
+  "license": "https://data.caltech.edu/license",
+  "version": "0.0.1",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Thomas E",
+      "familyName": "Morrell",
+      "affiliation": "Caltech Library",
+      "email": "tmorrell@caltech.edu",
+      "@id": "https://orcid.org/0000-0001-9266-5146"
+    }],
+  "developmentStatus": "active",
+  "downloadUrl": "https://github.com/caltechlibrary/ames/doi-demo-notebook/0.0.1.zip",
+  "keywords": [
+    "GitHub",
+    "DOI",
+    "software",
+    "Jupyter",
+    "notebook",
+    "plotting",
+    "data access",
+    "plotting"
+  ],
+  "maintainer": "https://orcid.org/0000-0001-9266-5146",
+  "programmingLanguage": "Python"
+}
