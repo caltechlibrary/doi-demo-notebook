@@ -1,4 +1,4 @@
-bokeh==1.0.1
+bokeh==1.0.4
 jupyter-client==5.2.3
 jupyter-console==5.2.0
 jupyter-core==4.4.0
