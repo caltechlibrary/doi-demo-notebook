@@ -1,3 +1,4 @@
 bokeh==1.0.4
-netCDF4==1.4.2
+netCDF4>=1.4.2
 tqdm==4.23.0
+caltechdata_api>0.1.7

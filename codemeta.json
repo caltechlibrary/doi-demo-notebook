@@ -6,7 +6,7 @@
   "codeRepository": "https://github.com/caltechlibrary/doi-demo-notebook",
   "issueTracker": "https://github.com/caltechlibrary/doi-demo-notebook/issues",
   "license": "https://data.caltech.edu/license",
-  "version": "0.0.1",
+  "version": "0.3",
   "author": [
     {
       "@type": "Person",
